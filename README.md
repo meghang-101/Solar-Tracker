@@ -7,4 +7,4 @@ The 4 sensors are placed in such orientation
 
 
 This object having the sensors can be attached on top of a Solar Panel or a Solar Reflector. The servo motor 01 will give motion in Y axis while servo motor 02 will give motion in X axis depending on the relative value input by the LDRs.
-Connect LDRs to analog pins and servo motors to digital pins of arduino nano/uno as specified in the program.
+Connect LDRs to analog pins and servo motors to digital pins of arduino nano/uno as specified in the Code
